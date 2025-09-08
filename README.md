@@ -1,5 +1,4 @@
 # Small_scripts_in_Python
---------------------------------------------------------------------------------
 
 PL:<br>
 Tutaj będę wrzucać małe skrypty napisane w pythonie, które dużo robią.<br>
