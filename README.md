@@ -1,17 +1,21 @@
-# Small_scripts_in_Python
+# Small Scripts in Python
 
-PL:<br>
-Tutaj będę wrzucać małe skrypty napisane w pythonie, które dużo robią.<br>
+## 🇵🇱 Opis
+Tutaj będę wrzucać małe skrypty napisane w Pythonie, które dużo robią.
 
-Na temat zawartości:<br>
-# Convert_audio_to_tws
-Mały skrypt, który konwertuje audio na format TopWare Sound .tws. Skrypt uruchamia proste gui do wyboru pliku audio i go konwertuje.
+### Zawartość
+- **Convert_audio_to_tws**  
+  Mały skrypt, który konwertuje audio na format *TopWare Sound (.tws)*.  
+  Skrypt uruchamia proste GUI do wyboru pliku audio i dokonuje konwersji.
 
---------------------------------------------------------------------------------
+---
 
-ENG:<br>
-Here I will post small scripts written in Python that do a lot.<br>
+## 🇬🇧 Description
+Here I will post small scripts written in Python that do a lot.
 
-About the content:<br>
-# Convert_audio_to_tws
-A small script that converts audio to TopWare Sound .tws format. The script runs a simple GUI to select an audio file and converts it.
+### Contents
+- **Convert_audio_to_tws**  
+  A small script that converts audio to *TopWare Sound (.tws)* format.  
+  The script runs a simple GUI to select an audio file and perform the conversion.
+
+---
