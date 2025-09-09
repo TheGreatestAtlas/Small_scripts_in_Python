@@ -12,6 +12,9 @@ Tutaj będę wrzucać małe skrypty napisane w Pythonie, które dużo robią.
   Ten skrypt w pythonie służy do konwersji obrazków png na bitmapy .bmp w 8 bitowej skali szarości 72 dpi.
   Wprowadzamy input z formatem .png, a następnie output z formatem .bmp i powinno przejść.
   Plik wyjściowy z tego skryptu normalnie jest przyjmowany przez KnightShift.
+  
+- **Terraforming-Png_to_grayscale_gui**  
+  Ten sam skrypt co wyżej ale z interfejsem do wyboru pliku z dysku.
 
 ---
 
@@ -27,5 +30,8 @@ Here I will post small scripts written in Python that do a lot.
   This python script is used to convert png images to bmp bitmaps in 8 bit grayscale 72 dpi.
   Input with .png format and then output with .bmp format and it should go through.
   The output file from this script is normally accepted by KnightShift.
+
+- **Terraforming-Png_to_grayscale_gui**  
+  The same script as above, but with an interface for selecting a file from the disk.
 
 ---
