@@ -2,8 +2,8 @@ import os
 import filecmp
 
 # Ścieżki do folderów
-folder1 = 'C:/Users/Atl/Desktop/e2150_moon_project/compileTEX/__TEX'
-folder2 = 'C:/Users/Atl/Desktop/e2150_moon_project/decompileTEX/__TEX'
+folder1 = 'C:/Users/Test/Desktop/e2150_moon_project/compileTEX/__TEX'
+folder2 = 'C:/Users/Test/Desktop/e2150_moon_project/decompileTEX/__TEX'
 
 files1 = sorted([f for f in os.listdir(folder1) if os.path.isfile(os.path.join(folder1, f))])
 files2 = sorted([f for f in os.listdir(folder2) if os.path.isfile(os.path.join(folder2, f))])
