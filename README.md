@@ -16,6 +16,9 @@ Tutaj będę wrzucać małe skrypty napisane w Pythonie, które dużo robią.
 - **Terraforming-Png_to_grayscale_gui**  
   Ten sam skrypt co wyżej ale z interfejsem do wyboru pliku z dysku.
 
+- **Compare_two_directories**  
+  Skrypt do masowego porównywania plików z dwóch katalogów.
+
 ---
 
 ## 🇬🇧 Description
@@ -33,5 +36,8 @@ Here I will post small scripts written in Python that do a lot.
 
 - **Terraforming-Png_to_grayscale_gui**  
   The same script as above, but with an interface for selecting a file from the disk.
+  
+- **Compare_two_directories**  
+  A script for mass comparison of files from two directories.
 
 ---
