@@ -18,7 +18,15 @@ Tutaj będę wrzucać małe skrypty napisane w Pythonie, które dużo robią.
 
 - **Compare_two_directories**  
   Skrypt do masowego porównywania plików z dwóch katalogów.
+  
+- **Apply_border_script**  
+  Skrypt służy do nakładania obramówek na bitmapki mapek do KnightShift. 
+  Skrypt jest o tyle intuicyjny, że zapisuje plik wynikowy do pliku .bmp o takich samych parametrach.
 
+- **Apply_border_script_gui**  
+  Skrypt służy do nakładania obramówek na bitmapki mapek do KnightShift. 
+  To jest ten sam skrypt co wyżej ale z interfejsem do wyboru pliku z dysku.
+  
 ---
 
 ## 🇬🇧 Description
@@ -39,5 +47,13 @@ Here I will post small scripts written in Python that do a lot.
   
 - **Compare_two_directories**  
   A script for mass comparison of files from two directories.
+  
+- **Apply_border_script**  
+  The script is used to apply borders to KnightShift map bitmaps. 
+  The script is intuitive in that it saves the resulting file to a .bmp file with the same parameters.
+
+- **Apply_border_script_gui**  
+  The script is used to apply borders to KnightShift map bitmaps. 
+  This is the same script as above, but with an interface for selecting a file from the disk.
 
 ---
