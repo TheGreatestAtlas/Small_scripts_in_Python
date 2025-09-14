@@ -59,7 +59,7 @@ Here I will post small scripts written in Python that do a lot.
   The script is used to apply borders to KnightShift map bitmaps. 
   This is the same script as above, but with an interface for selecting a file from the disk.
 
-- **Convert_dds_to_image**
+- **Convert_dds_to_image**  
   This script is used to convert .dds texture files to .png format.
 
 ---
