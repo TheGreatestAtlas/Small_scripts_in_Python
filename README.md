@@ -27,6 +27,9 @@ Tutaj będę wrzucać małe skrypty napisane w Pythonie, które dużo robią.
   Skrypt służy do nakładania obramówek na bitmapki mapek do KnightShift. 
   To jest ten sam skrypt co wyżej ale z interfejsem do wyboru pliku z dysku.
   
+- **Convert_dds_to_image**  
+  Skrypt służy do konwersji plików textur .dds do formatu .png.
+  
 ---
 
 ## 🇬🇧 Description
@@ -55,5 +58,8 @@ Here I will post small scripts written in Python that do a lot.
 - **Apply_border_script_gui**  
   The script is used to apply borders to KnightShift map bitmaps. 
   This is the same script as above, but with an interface for selecting a file from the disk.
+
+- **Convert_dds_to_image**
+  This script is used to convert .dds texture files to .png format.
 
 ---
