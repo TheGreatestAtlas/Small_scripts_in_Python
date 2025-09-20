@@ -30,6 +30,12 @@ Tutaj będę wrzucać małe skrypty napisane w Pythonie, które dużo robią.
 - **Convert_dds_to_image**  
   Skrypt służy do konwersji plików textur .dds do formatu .png.
   
+- **Decompress_Zlib**  
+  Skrypt służy do dekompresji plików spakowanych zlibem.
+  
+- **Repair_map_name_script**  
+  Skrypty służą do pozbywania się znaków, które uniemożliwiają uruchomienie mapy w edytorze Ks.
+  
 ---
 
 ## 🇬🇧 Description
@@ -61,5 +67,11 @@ Here I will post small scripts written in Python that do a lot.
 
 - **Convert_dds_to_image**  
   This script is used to convert .dds texture files to .png format.
+
+- **Decompress_Zlib**
+  This script is used to decompress files packed with zlib.
+
+- **Repair_map_name_script**
+  These scripts are used to remove characters that prevent the map from running in the Ks editor.
 
 ---

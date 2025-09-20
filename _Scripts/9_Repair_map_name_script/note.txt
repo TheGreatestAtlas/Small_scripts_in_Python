@@ -1,0 +1,23 @@
+Skrypty służą do pozbywania się znaków, które uniemożliwiają uruchomienie mapy w edytorze.
+
+Skrypty działają następująco:
+-> przecinek ',' jest zamieniany na _
+-> kropka '.' jest zamieniana na _
+-> wykrzyknik '!' jest usuwany
+
+Skrypt repair_all_files.py iteruje po każdym pliku w bieżącym katalogu i zamienia wymienione wyżej znaki.
+
+Skrypt repair_single_file.py umożliwia wybór pojedynczego pliku mapy i zamiany znaków. Skrypt należy użyć na każdym pliku mapy czyli .bmp, .lnd, .mis.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The scripts are used to remove characters that prevent the map from running in the editor.
+
+The scripts work as follows:
+-> the comma ',' is replaced with _
+-> the period '.' is replaced with _
+-> the exclamation mark '!' is removed
+
+The repair_all_files.py script iterates through each file in the current directory and replaces the characters listed above.
+
+The repair_single_file.py script allows you to select a single map file and replace characters. The script should be used on each map file, i.e. .bmp, .lnd, .mis.
