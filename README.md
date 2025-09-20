@@ -68,10 +68,10 @@ Here I will post small scripts written in Python that do a lot.
 - **Convert_dds_to_image**  
   This script is used to convert .dds texture files to .png format.
 
-- **Decompress_Zlib**
+- **Decompress_Zlib** 
   This script is used to decompress files packed with zlib.
 
-- **Repair_map_name_script**
+- **Repair_map_name_script** 
   These scripts are used to remove characters that prevent the map from running in the Ks editor.
 
 ---
